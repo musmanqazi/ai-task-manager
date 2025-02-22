@@ -15,7 +15,6 @@ export default function Home() {
       alignItems="center"
     >
       <Typography variant="h1">Task Manager</Typography>
-
     </Box>
   );
 }
